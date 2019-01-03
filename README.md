@@ -1,4 +1,4 @@
-# Javascript-Jquery
+# Javascript & Jquery
 ## 자바스크립트 &amp; 제이쿼리
 
 제1장 - JavaScript 소개
